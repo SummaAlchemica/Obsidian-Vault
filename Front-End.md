@@ -1,0 +1,1 @@
+#Computer #Engineering Front end development is a type of [[Software]] [[Engineering]] which results in [[Webpage]]s which are published on the [[internet]]. It is 1 of 2 parts of [[Full stack]], and uses [[HTML]], [[CSS]] and [[Javascript]].

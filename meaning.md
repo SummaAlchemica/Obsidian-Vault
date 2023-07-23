@@ -1,0 +1,2 @@
+#Philosophy 
+In [[semantic]]s, [[semiotic]]s, [[philosophy]] of [[language]], [[metaphysic]]s, and [[metasemantic]]s, meaning "is a relationship between two sorts of things: signs and the kinds of things they intend, express, or signify". The types of meanings vary according to the types of the thing that is being represented.

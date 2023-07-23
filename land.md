@@ -1,0 +1,2 @@
+#Geography
+Land, also known as dry land, ground, or [[earth]], is the [[solid]] terrestrial surface of Earth not submerged by the [[ocean]] or another body of water. It makes up 29.2% of Earth's surface and includes all [[continent]]s and [[island]]s

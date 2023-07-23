@@ -1,0 +1,2 @@
+#Math 
+Infinity is that which is boundless, endless, or larger than any [[natural number]]. It is often denoted by the infinity [[symbol]] . Since the [[time]] of the ancient [[Greek]]s, the philosophical nature of infinity was the subject of many discussions among philosophers.

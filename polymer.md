@@ -1,0 +1,2 @@
+#Chemistry 
+A polymer is **any of a class of [[natural]] or [[synthetic]] substances composed of very large [[molecule]]s, called [[macromolecule]]s, which are multiples of simpler chemical units called [[monomer]]s**. Polymers make up many of the materials in living [[Organism]]s and are the basis of many [[mineral]]s and [[man-made]] materials

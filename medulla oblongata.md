@@ -1,0 +1,6 @@
+#Biology 
+The medulla oblongata or simply medulla is a long stem-like structure which makes up the lower part of the [[brainstem]].[1] It is anterior and partially inferior to the cerebellum. It is a cone-shaped neuronal mass responsible for [[autonomic]] (involuntary) [[function]]s, ranging from [[vomit]]ing to [[sneez]]ing.[2] The medulla contains the [[cardiac]], [[respiratory]], vomiting and [[vasomotor]] centers, and therefore deals with the autonomic functions of [[breath]]ing, [[heart]] rate and [[blood pressure]] as well as the sleep–wake cycle.[2]
+
+During [[embryo]]nic development, the medulla oblongata develops from the [[myelencephalon]]. The myelencephalon is a secondary [[vesicle]] which forms during the maturation of the [[rhombencephalon]], also referred to as the [[hindbrain]].
+
+The bulb is an [[archaic]] term for the medulla oblongata.[1] In modern clinical usage, the word bulbar (as in [[bulbar palsy]]) is retained for terms that relate to the medulla oblongata, particularly in reference to medical conditions. The word bulbar can refer to the [[nerve]]s and tracts connected to the medulla, and also by association to those [[muscle]]s innervated, such as those of the [[tongue]], [[pharynx]] and [[larynx]].

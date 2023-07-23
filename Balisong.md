@@ -1,0 +1,8 @@
+#Misc 
+A butterfly knife, also known as a balisong, fan [[knife]] or Batangas knife, is a type of folding pocketknife that originated in the [[Philippines]]. Its distinct features are two handles counter-rotating around the tang such that, when closed, the blade is concealed within grooves in the handles. A latch sometimes holds the handles together, typically mounted on the one facing the cutting edge (the "bite handle").[1]
+
+The balisong was commonly used by Filipinos, especially those in the [[Tagalog]] region, as a [[self-defense]] and pocket utility knife. Hollow-grind balisongs were also used as straight razors before conventional razors were available in the Philippines. In the hands of a trained user, the knife blade can be brought to bear quickly using one hand. Manipulations, called "flipping", are performed for [[art]] or amusement. Blunt "trainer" versions of these knives are available and can be used to practice tricks without the risk of injury.
+
+The knife is now illegal or restricted in some countries, often under the same laws and for the same reasons that switchblades or concealed [[weapon]]s are restricted. Within the Philippines, it is no longer as common in urban areas as in the past.[2]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15D_LWIguL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

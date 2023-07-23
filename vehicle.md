@@ -1,0 +1,4 @@
+#Engineering 
+A vehicle (from Latin vehiculum)[1] is a [[machine]] that transports people or cargo. Vehicles include [[wagon]]s, [[bicycle]]s, [[motor]] vehicles ([[motorcycle]]s, [[car]]s, [[truck]]s, [[bus]]es, [[mobility scooter]]s for [[disab]]led people), [[rail]]ed vehicles ([[train]]s, [[tram]]s), [[watercraft]] ([[ship]]s, [[boat]]s, underwater vehicles), [[amphibious]] vehicles ([[screw-propell]]ed vehicles, [[hovercraft]]), [[aircraft]] ([[airplane]]s, [[helicopter]]s, [[aerostat]]s) and [[spacecraft]].[2]
+
+Land vehicles are classified broadly by what is used to apply [[steer]]ing and [[drive]] [[forces]] against the [[ground]]: [[wheel]]ed, tracked, railed or skied. ISO 3833-1977 is the standard, also internationally used in [[legislation]], for road vehicles types, terms and definitions.[3]

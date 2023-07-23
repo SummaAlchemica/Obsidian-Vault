@@ -1,0 +1,2 @@
+#Language #Linguistics 
+Arabic is a [[Semitic language]] spoken primarily across the [[Arab]] world. Having emerged in the 1st century, it is named after the Arab people; the term "Arab" was initially used to describe those living in the [[Arabian Peninsula]], as perceived by geographers from [[ancient Greece]]

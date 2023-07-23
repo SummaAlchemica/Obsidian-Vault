@@ -1,0 +1,2 @@
+#Biology 
+The spinal cord is a long, thin, tubular structure made up of [[nervous tissue]], which extends from the [[medulla oblongata]] in the [[brainstem]] to the lumbar region of the [[vertebral column]] (backbone). The backbone encloses the central canal of the [[spinal cord]], which contains [[cerebrospinal fluid]].

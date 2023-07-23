@@ -1,0 +1,12 @@
+#Computer 
+The Karnaugh map (KM or K-map) is a method of simplifying [[Boolean algebra]] expressions. Maurice Karnaugh introduced it in 1953 as a refinement of Edward W. Veitch's 1952 Veitch chart,[3][4] which was a rediscovery of Allan Marquand's 1881 [[logic]]al diagram[5][6] aka Marquand diagram[4] but with a focus now set on its utility for switching [[circuit]]s.[4] Veitch charts are also known as Marquand–Veitch diagrams[4] or, rarely, as Svoboda charts,[7] and Karnaugh maps as Karnaugh–Veitch maps (KV maps).
+
+The Karnaugh map reduces the need for extensive [[calculation]]s by taking advantage of humans' pattern-recognition capability.[1] It also permits the rapid identification and elimination of potential race conditions.
+
+The required [[Boolean]] results are transferred from a truth table onto a two-dimensional grid where, in Karnaugh maps, the cells are ordered in Gray code,[8][4] and each cell position represents one combination of input conditions. Cells are also known as minterms, while each cell value represents the corresponding output value of the boolean function. Optimal groups of 1s or 0s are identified, which represent the terms of a canonical form of the logic in the original truth table.[9] These terms can be used to write a minimal Boolean expression representing the required logic.
+
+Karnaugh maps are used to simplify real-world logic requirements so that they can be implemented using a minimum number of logic gates. A sum-of-products expression (SOP) can always be implemented using AND gates feeding into an OR gate, and a product-of-sums expression (POS) leads to OR gates feeding an AND gate. The POS expression gives a complement of the function (if F is the function so its complement will be F').[10] Karnaugh maps can also be used to simplify logic expressions in software design. Boolean conditions, as used for example in conditional statements, can get very complicated, which makes the code difficult to read and to maintain. Once minimised, canonical sum-of-products and product-of-sums expressions can be implemented directly using AND and OR logic operators.
+![[1920px-K-map_minterms_A.svg.png]]
+![[1024px-K-map_6,8,9,10,11,12,13,14_anti-race.svg.png]]
+[[torus]]
+![[Karnaugh_map_torus.svg.png]]

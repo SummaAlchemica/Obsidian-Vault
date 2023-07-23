@@ -1,0 +1,2 @@
+#Linguistics 
+Phonology is the branch of [[linguistic]]s that studies how [[language]]s or [[dialect]]s systematically organize their [[sound]]s or, for [[sign language]]s, their constituent parts of [[sign]]s. The term can also refer specifically to the sound or [[sign system]] of a particular language variety.

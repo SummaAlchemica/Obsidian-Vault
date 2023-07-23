@@ -1,0 +1,2 @@
+#Language #Linguistics 
+Hindi, or more precisely Modern Standard Hindi, is an [[Indo-Aryan language]] spoken chiefly in the [[Hindi Belt region]] encompassing parts of northern, central, eastern, and western [[India]].

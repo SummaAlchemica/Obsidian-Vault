@@ -1,0 +1,2 @@
+#Computer 
+In [[computer engineering]], [[Comput]] architecture is a description of the structure of a computer system made from [[component]] parts. It can sometimes be a [[high-level]] description that ignores details of the implementation. At a more detailed level, the description may include the instruction set architecture design, [[microarchitecture]] design, [[logic]] design, and implementation.

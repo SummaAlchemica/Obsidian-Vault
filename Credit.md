@@ -1,0 +1,2 @@
+#Economics 
+Credit is the trust which allows one party to provide [[money]] or [[resource]]s to another party wherein the second party does not [[reimburse]] the first party immediately, but promises either to repay or return those resources at a later date.

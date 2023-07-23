@@ -1,0 +1,2 @@
+#Psychology 
+Beauty is commonly described as a feature of objects that makes these objects pleasurable to perceive. Such objects include [[landscape]]s, sunsets, [[human]]s and works of [[art]]. Beauty, together with art and [[taste]], is the main subject of [[aesthetic]]s, one of the major branches of [[philosophy]].

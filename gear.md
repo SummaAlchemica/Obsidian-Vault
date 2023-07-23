@@ -1,0 +1,2 @@
+#Engineering 
+A gear is a rotating circular [[machine]] part having cut teeth or, in the case of a [[cogwheel]] or [[gearwheel]], inserted teeth, which mesh with another toothed part to transmit [[torque]] and [[speed]]. The basic principle behind the operation of gears is analogous to the basic principle of [[lever]]s.

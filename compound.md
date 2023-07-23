@@ -1,0 +1,1 @@
+#Chemistry a substance made from two or more different elements that have been chemically joined. Examples of compounds include [[water]] (H2O), which is made from the elements [[hydrogen]] and [[oxygen]], and table [[salt]] (NaCl), which is made from the elements [[sodium]] and [[chlorine]].

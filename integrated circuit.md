@@ -1,0 +1,2 @@
+#Engineering 
+An integrated [[circuit]] or monolithic integrated circuit is a set of [[electronic]] circuits on one small flat piece of [[semiconductor]] material, usually [[silicon]]. Large numbers of miniaturized [[transistor]]s and other electronic [[component]]s are integrated together on the chip.

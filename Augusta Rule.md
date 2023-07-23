@@ -1,0 +1,2 @@
+#Economics What is the Augusta Rule? The Augusta Rule, known to the [[IRS]] as Section 280A, allows homeowners to [[rent]] out their [[home]] for up to 14 days per year without needing to report the rental [[income]] on their individual [[tax return]].
+![[Augusta rule.mp4]]

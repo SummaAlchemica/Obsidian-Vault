@@ -1,0 +1,8 @@
+#Art 
+Painting is the practice of applying paint, [[pigment]], color or other medium to a solid surface (called the "matrix"[citation needed] or "support").[1] The medium is commonly applied to the base with a [[brush]], but other implements, such as knives, [[sponge]]s, and [[airbrush]]es, can be used.
+
+In art, the term painting describes both the act and the result of the action (the final work is called "a painting"). The support for paintings includes such surfaces as walls, [[paper]], [[canvas]], [[wood]], [[glass]], [[lacquer]], [[pottery]], [[leaf]], [[copper]] and [[concrete]], and the painting may incorporate multiple other materials, including [[sand]], [[clay]], paper, plaster, gold leaf, and even whole objects.
+
+Painting is an important form of [[visual]] art, bringing in elements such as [[draw]]ing, composition, gesture, narration, and [[abstract]]ion.[2] Paintings can be naturalistic and representational (as in still life and landscape painting), [[photo]]graphic, abstract, [[narrative]], symbolistic (as in [[Symbol]]ist art), emotive (as in [[Expression]]ism) or political in nature (as in Artivism).
+
+A portion of the history of painting in both Eastern and Western art is dominated by religious art. Examples of this kind of painting range from artwork depicting mythological figures on pottery, to Biblical scenes on the [[Sistine Chapel]] ceiling, to scenes from the life of [[Buddha]] (or other images of Eastern religious origin).

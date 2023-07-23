@@ -1,0 +1,2 @@
+#Linguistics 
+A symbol is a mark, sign, or a word that indicates, signifies, or it is understood as representing an [[idea]], [[object]], or [[relationship]]. Symbols allow people to go beyond what is known or seen by creating linkages between otherwise very different [[concept]]s and experiences.

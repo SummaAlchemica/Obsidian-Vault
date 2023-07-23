@@ -1,0 +1,2 @@
+#Math 
+In [[geometry]], a polygon is a [[plane]] figure made up of [[line]] segments connected to form a closed polygonal chain. The segments of a closed polygonal chain are called its [[edge]]s or [[side]]s. The points where two edges meet are the polygon's [[vert]]ices or corners.

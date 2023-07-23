@@ -1,0 +1,2 @@
+#Chemistry 
+A covalent bond is a chemical bond that involves the sharing of [[electron]]s to form electron pairs between [[atom]]s. These electron pairs are known as shared pairs or bonding pairs. The stable balance of attractive and repulsive forces between atoms, when they share electrons, is known as covalent bonding

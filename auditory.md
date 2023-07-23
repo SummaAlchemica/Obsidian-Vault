@@ -1,0 +1,2 @@
+#Psychology 
+Hearing, or auditory perception, is the ability to perceive sounds through an [[organ]], such as an [[ear]], by detecting [[vibration]]s as periodic changes in the pressure of a surrounding medium. The academic field concerned with hearing is auditory science. [[Sound]] may be heard through [[solid]], [[liquid]], or [[gas]]eous [[matter]].

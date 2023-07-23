@@ -1,0 +1,2 @@
+#Philosophy 
+René [[Descartes]] Baruch [[Spinoza]] Gottfried [[Leibniz]] In [[philosophy]], [[rational]]ism is the [[epistemolog]]ical view that "regards reason as the chief source and test of [[knowledge]]" or "any view appealing to reason as a source of knowledge or justification"

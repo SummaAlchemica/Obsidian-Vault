@@ -1,0 +1,2 @@
+#Computer 
+Web accessibility means that **[[website]]s, [[tool]]s, and technologies are designed and developed so that [[people]] with disabilities can use them**. More specifically, people can: perceive, understand, navigate, and interact with the [[Web]]. contribute to the Web.

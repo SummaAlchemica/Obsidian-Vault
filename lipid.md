@@ -1,0 +1,2 @@
+#Biology 
+Lipids are a broad group of naturally-occurring [[molecule]]s which includes [[fat]]s, [[wax]]es, [[sterol]]s, [[fat-soluble]] [[vitamins]], [[monoglyceride]]s, [[diglyceride]]s, [[phospholipid]]s, and others. The functions of lipids include storing [[energy]], [[signal]]ing, and acting as [[structural]] components of [[cell]] [[membranes]].

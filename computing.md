@@ -1,0 +1,2 @@
+#Computer 
+Computing is any goal-oriented activity requiring, benefiting from, or creating computing [[machine]]ry. It includes the study and experimentation of [[algorithm]]ic processes, and development of both [[hardware]] and [[software]]. Computing has scientific, [[engineering]], [[math]]ematical, technological and [[social]] aspects

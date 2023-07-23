@@ -1,0 +1,4 @@
+#Computer 
+An application [[program]] ([[software]] application, or application, or app for short) is a [[computer]] program designed to carry out a specific task other than one relating to the operation of the computer itself,[1] typically to be used by end-users.[2] [[Word processor]]s, [[media player]]s, and [[account]]ing software are examples. The collective noun "application software" refers to all applications collectively.[3] The other principal classifications of software are [[system software]], relating to the operation of the computer, and [[utility software]] ("utilities").
+
+Applications may be bundled with the computer and its system software or published separately and may be coded as proprietary, [[open-source]], or projects.[4] The term "app" usually refers to applications for [[mobile]] [[device]]s such as [[phone]]s.

@@ -1,0 +1,2 @@
+#Linguistics 
+In [[semantic]]s, a predicand is an [[argument]] in an utterance, specifically that of which something is predicated. By extension, in [[Synta]], it is the constituent in a [[clause]] typically functioning as the [[subject]].

@@ -1,0 +1,2 @@
+#Biology 
+A drug is any [[chemical]] substance that causes a change in an [[organism]]'s [[physiology]] or [[psychology]] when consumed. Drugs are typically distinguished from [[food]] and substances that provide [[nutrition]]al support. 

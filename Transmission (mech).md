@@ -1,0 +1,2 @@
+#Engineering 
+A transmission is a [[mechanic]]al [[device]] which uses [[gear]]s to change the [[speed]] or [[direction]] of [[rotation]] in a [[machine]]. Many transmissions have multiple [[gear ratio]]s, but there are also transmissions that use a single [[fixed gear ratio]].

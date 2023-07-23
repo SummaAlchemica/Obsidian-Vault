@@ -1,0 +1,2 @@
+#Chemistry 
+A functional group is defined as an [[atom]] or group of atoms within a [[molecule]] that has similar chemical properties whenever it appears in various [[compound]]s. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways.

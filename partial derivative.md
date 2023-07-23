@@ -1,0 +1,3 @@
+#Math 
+In [[math]]ematics, a partial derivative of a [[function]] of several [[variable]]s is its [[derivative]] with respect to one of those variables, with the others held constant. Partial derivatives are used in [[vector calculus]] and [[differential geometry]].
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AXH9Xm6Rbfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

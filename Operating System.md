@@ -1,0 +1,1 @@
+#Computer An operating system is a piece of [[Software]] which provides a buffer between the user and other higher level pieces of software

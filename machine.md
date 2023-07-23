@@ -1,0 +1,2 @@
+#Engineering 
+A machine is a physical system using power to apply [[force]]s and control [[movement]] to perform an action. The term is commonly applied to [[artificial]] devices, such as those employing [[engine]]s or [[motor]]s, but also to natural [[biolog]]ical [[macromolecule]]s, such as [[molecular machine]]s.

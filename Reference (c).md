@@ -1,0 +1,2 @@
+#Computer 
+In the [[C++]] [[program]]ming [[language]], a reference is a simple reference [[datatype]] that is less powerful but safer than the [[pointer]] type inherited from C. The name C++ reference may cause confusion, as in [[computer science]] a reference is a general concept datatype, with pointers and C++ references being specific reference datatype implementations. The definition of a reference in C++ is such that it does not need to exist. It can be implemented as a new name for an existing object (similar to rename keyword in Ada).

@@ -1,0 +1,2 @@
+#Physics 
+Observation is an act or instance of noticing or perceiving in the natural sciences and the acquisition of [[definition]] from a [[primary source]]. In living beings, observation employs the senses. In [[science]], observation can also involve the [[perception]] and recording of data via the use of scientific instruments

@@ -1,0 +1,2 @@
+#Biology 
+Dihydrotestosterone is an [[endogenous]] [[androgen]] sex [[steroid]] and [[hormone]]. The enzyme [[5α-reductase]] [[catalyze]]s the formation of DHT from testosterone in certain [[tissue]]s including the [[prostate]] gland, [[seminal vesicle]]s, [[epididymide]]s, [[skin]], [[hair]] [[follicle]]s, [[liver]], and [[brain]].

@@ -1,0 +1,2 @@
+#Computer 
+A low-level [[programming language]] is a programming language that provides little or no [[abstract]]ion from a [[Comput]]'s instruction set [[architecture]]—[[commands]] or [[function]]s in the language map that are structurally similar to [[processor]]'s instructions. Generally, this refers to either [[machine code]] or [[Assembly Language]].

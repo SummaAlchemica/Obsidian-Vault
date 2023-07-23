@@ -1,0 +1,2 @@
+#Chemistry 
+A chemical substance is a form of [[matter]] having constant chemical composition and characteristic properties. Some references add that chemical substance cannot be separated into its constituent [[element]]s by physical separation methods, i.e., without breaking [[chemical bond]]s.

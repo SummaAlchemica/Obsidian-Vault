@@ -1,0 +1,2 @@
+A [[physical]] alteration thought to occur in living [[neural]] [[tissue]] in response to [[stimuli]], posited as an explanation for [[memory]].
+[what is an engram?](https://www.youtube.com/watch?v=X5trRLX7PQY)

@@ -1,0 +1,2 @@
+#Biology 
+Metenolone enanthate, or methenolone enanthate, sold under the brand names Primobolan Depot and Nibal Injection, is an androgen and anabolic steroid medication which is used mainly in the treatment of [[anemia]] due to [[bone]] [[marrow]] failure. It is given by injection into [[muscle]].

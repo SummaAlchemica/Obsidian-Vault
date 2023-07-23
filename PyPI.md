@@ -1,0 +1,2 @@
+#Computer 
+The [[Python]] [[Package]] [[Index]], abbreviated as PyPI and also known as the Cheese Shop, is the official [[third-party]] [[software]] [[repository]] for Python. It is analogous to the [[CPAN]] repository for [[Perl]] and to the [[CRAN]] repository for [[R]]. PyPI is run by the Python Software Foundation, a charity.

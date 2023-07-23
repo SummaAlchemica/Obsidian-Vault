@@ -1,0 +1,2 @@
+#Math 
+In mathematics, a variable is a symbol that represents a [[math]]ematical [[object]]. A variable may represent a [[number]], a [[vector]], a [[matrix]], a [[function]], the argument of a function, a [[set]], or an element of a set.

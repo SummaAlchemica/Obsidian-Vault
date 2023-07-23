@@ -1,0 +1,2 @@
+#Language #Linguistics 
+English is a [[West Germanic language]] in the [[Indo-European language family]], with its earliest forms spoken by the inhabitants of early medieval [[England]]. It is named after the [[Angles]], one of the ancient [[Germanic]] peoples that migrated to the island of [[Great Britain]].

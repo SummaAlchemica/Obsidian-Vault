@@ -1,0 +1,2 @@
+#Computer 
+Apache Lucene is a free and [[open-source]] [[search engine]] [[software]] library, originally written in Java by Doug Cutting. It is supported by the Apache Software Foundation and is released under the Apache Software License. Lucene is widely used as a standard foundation for non-research search applications

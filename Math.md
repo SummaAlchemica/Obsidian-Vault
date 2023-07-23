@@ -1,0 +1,1 @@
+#Math or mathematics is an academic field which involves the manipuation and calculation of [[Logic]]ally consistent systems, quantities and measurements. It is foundational to [[Comput]] Science and other [[STEM]] fields.d

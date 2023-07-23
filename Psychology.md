@@ -1,0 +1,3 @@
+#Psychology #Biology
+
+Psychology is the scientific study of mind and [[behavior]] in humans and non-humans. Psychology includes the study of [[conscious]] and [[unconscious]] [[phenomena]], including [[feelings]] and [[thoughts]]. It is an academic discipline of immense scope, crossing the boundaries between the [[natural]] and [[social science]]s.  Psychologists are actively involved in studying and understanding mental processes, [[Brain]] functions, and behavior.

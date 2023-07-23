@@ -1,0 +1,8 @@
+#Philosophy 
+Magic, sometimes spelled magick,[1] is an ancient practice rooted in [[ritual]]s, [[spirit]]ual divinations, and/or [[cultur]]al lineage—with an intention to invoke, manipulate, or otherwise manifest [[supernatural]] forces, beings, or entities in the natural world.[2] It is a categorical yet often ambiguous term which has been used to refer to a wide variety of beliefs and practices, frequently considered separate from both [[religio]]n and [[science]].[3]
+
+Although connotations have varied from positive to negative at times throughout history,[4] magic continues to have an important religious and medicinal role in many cultures today.
+
+Within Western culture, magic has been linked to ideas of the Other,[5] [[foreign]]ness, and [[primitiv]]ism;[7] indicating that it is "a powerful marker of cultural difference"[8] and likewise, a non-modern [[phenomenon]].[9] During the late nineteenth and early twentieth century, Western intellectuals perceived the practice of magic to be a sign of a primitive mentality and also commonly attributed it to marginalised groups of people.[8]
+
+In modern [[occult]]ism and [[neopagan]] religions, many self-described magicians and witches regularly practice ritual magic;[10] defining magic as a technique for bringing about change in the physical world through the force of one's will. This definition was popularised by Aleister Crowley (1875–1947), an influential British occultist, and since that time other religions (e.g. Wicca and LaVeyan Satanism) and magical systems (e.g. chaos magick) have adopted it.

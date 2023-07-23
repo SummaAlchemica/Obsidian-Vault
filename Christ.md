@@ -1,0 +1,2 @@
+#History 
+Jesus, also referred to as Jesus Christ or Jesus of [[Nazareth]], was a first-century [[Jew]]ish [[preach]]er and [[religio]]us leader. He is the central figure of [[Christian]]ity, the world's largest religion. Most Christians believe he is the incarnation of [[God]] the Son and the awaited [[Messia]]h [[prophes]]ied in the [[Hebrew]] Bible. Virtually all modern scholars of antiquity agree that Jesus existed historically.

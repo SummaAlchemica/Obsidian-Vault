@@ -1,0 +1,2 @@
+#Computer 
+A “mobile-first” approach involves designing a [[desktop]] site starting with the [[mobile]] version, which is then adapted to larger [[screen]]s (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the main goal of improving these mobile users’ experience on your site.

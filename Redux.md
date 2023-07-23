@@ -1,0 +1,2 @@
+
+Redux is an [[open-source]] [[JavaScript]] and [[Typescript]] library for managing and centralizing application state. It is most commonly used with libraries such as [[React.js]] or [[Angular]] for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.

@@ -1,0 +1,2 @@
+#Biology 
+Double helix, as related to [[genomics]], is **a term used to describe the physical structure of DNA**. A DNA [[molecule]] is made up of two linked strands that wind around each other to resemble a twisted ladder in a helix-like shape. Each strand has a backbone made of alternating [[sugar]] ([[deoxyribose]]) and [[phosphate]] groups.

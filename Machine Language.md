@@ -1,0 +1,2 @@
+#Computer 
+In [[Comput]] [[programming]], [[machine code]] is computer code consisting of [[machine]] [[language]] instructions, which are used to control a computer's [[CPU (central processing unit)]].

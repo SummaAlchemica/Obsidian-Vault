@@ -1,0 +1,2 @@
+#Economics 
+A creditor or lender is a party that has a claim on the [[service]]s of a second party. It is a person or [[institution]] to whom [[money]] is owed. The first party, in general, has provided some property or service to the second party under the assumption that the second party will return an equivalent [[property]] and [[service]]. 

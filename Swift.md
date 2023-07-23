@@ -1,0 +1,3 @@
+#Computer #Language #Engineering 
+
+**Swift** is an [[open source]] [[programming language]], originally designed by Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff and Apple Inc. It was created as a **replacement for [[Objective-C]] for developing [[MacOS]] and [[iOS ]]applications**. This language presents a simpler [[Synta]] and includes modern programming languages theory concepts. It is available under Apache License 2.0.

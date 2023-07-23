@@ -1,0 +1,6 @@
+#Economics 
+A central bank, reserve [[bank]], or monetary authority is an [[institution]] that manages the [[currency]] and [[monetary policy]] of a [[country]] or monetary union,[1] and oversees their [[commercial bank]]ing system. In contrast to a commercial bank, a central bank possesses a [[monopoly]] on increasing the [[monetary base]]. Most central banks also have supervisory and regulatory powers to ensure the stability of member institutions, to prevent [[bank run]]s, and to discourage reckless or fraudulent behavior by [[member bank]]s.
+
+Central banks in most developed nations are institutionally independent from [[political]] interference.[2][3][4] Still, limited control by the [[executive]] and [[legislative]] bodies exists.[5][6]
+
+Issues like central bank independence, central bank policies and [[rhetoric]] in central bank governors discourse or the premises of [[macroeconomic]] policies[7] (monetary and [[fiscal]] policy) of the state are a focus of contention and criticism by some policymakers,[8] researchers[9] and specialized [[business]], [[economic]]s and [[finance]] media.[10][11]

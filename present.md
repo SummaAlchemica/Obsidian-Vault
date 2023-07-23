@@ -1,0 +1,2 @@
+#Physics 
+The present is the [[time]] that is associated with the events perceived directly and in the first time, not as a recollection or a speculation. It is a period of time between the [[past]] and the [[future]], and can vary in meaning from being an instant to a [[day]] or longer.

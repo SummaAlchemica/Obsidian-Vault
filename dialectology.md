@@ -1,0 +1,2 @@
+#Linguistics 
+Dialectology is the scientific study of [[linguistic]] [[dialect]], a sub-field of [[sociolinguistic]]. It studies variations in [[language]] based primarily on [[geograph]]ic distribution and their associated features.

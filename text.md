@@ -1,0 +1,2 @@
+#Linguistics 
+In literary [[theory]], a text is any object that can be "[[read]]", whether this object is a work of [[literature]], a [[street]] sign, an arrangement of [[building]]s on a [[city block]], or styles of [[cloth]]ing. It is a coherent set of signs that transmits some kind of [[informative]] message.

@@ -1,0 +1,2 @@
+#Math 
+Science is a systematic endeavor that builds and organizes [[knowledge]] in the form of testable explanations and predictions about the [[universe]]. The earliest written records of identifiable predecessors to modern science come from [[Ancient]] [[Egypt]] and [[Mesopotamia]] from around 3000 to 1200 BCE.

@@ -1,0 +1,2 @@
+#Biology 
+Drostanolone propionate, or dromostanolone propionate, sold under the brand names Drolban, Masteril, and Masteron among others, is an [[androgen]] and [[anabolic]] [[steroid]] medication which was used to treat breast [[cancer]] in women but is now no longer marketed. It is given by injection into [[muscle]].

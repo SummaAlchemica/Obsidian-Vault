@@ -1,0 +1,2 @@
+#Chemistry 
+A chemical bond is a lasting attraction between [[atom]]s or [[ion]]s that enables the formation of [[molecule]]s, [[crystal]]s, and other structures. The bond may result from the [[electrostatic]] [[force]] between oppositely [[charge]]d ions as in [[ionic bond]]s, or through the sharing of [[electron]]s as in [[covalent]]s.

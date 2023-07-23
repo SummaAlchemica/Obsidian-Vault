@@ -1,0 +1,2 @@
+#Computer 
+In the pursuit of [[knowledge]], data is a collection of [[discrete]] values that convey [[definition]], describing [[quantity]], [[quality]], [[fact]], [[statistic]]s, other basic units of [[meaning]], or simply sequences of [[symbol]]s that may be further interpreted. A [[datum]] is an individual value in a collection of data.

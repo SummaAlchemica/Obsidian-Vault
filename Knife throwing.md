@@ -1,0 +1,2 @@
+#Misc 
+[[Knife]] throwing is an [[art]], [[sport]], [[combat skill]], or variously an [[entertainment]] [[technique]], involving an artist skilled in the art of throwing knives, the weapons thrown, and a [[target]]. In some stage performances, the knife thrower ties an assistant to the target and throws to miss them.

@@ -1,0 +1,2 @@
+#Computer 
+Your [[interface]] to the [[operating system]] is called a shell. The shell is the outermost layer of the operating system. Shells incorporate a [[programming language]] to control processes and [[file]]s, as well as to start and control other [[program]]s.

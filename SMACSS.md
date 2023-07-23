@@ -1,0 +1,1 @@
+#Computer This stands for Scalable and Modular Architecture for [[CSS]] ![[SMACSS pdf.pdf]]

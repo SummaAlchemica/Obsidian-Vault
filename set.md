@@ -1,0 +1,2 @@
+#Math 
+A set is the [[math]]ematical [[model]] for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: [[number]]s, [[symbol]]s, [[point]]s in [[space]], lines, other geometrical [[shape]]s, [[variable]]s, or even other sets.

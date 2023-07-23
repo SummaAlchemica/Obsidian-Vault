@@ -1,0 +1,4 @@
+#Computer 
+The [[VHSIC]] Hardware Description Language (VHDL) is a hardware description language ([[HDL]]) that can model the behavior and structure of [[digital]] systems at multiple levels of [[abstract]]ion, ranging from the system level down to that of [[logic gate]]s, for design entry, documentation, and verification purposes. Since 1987, VHDL has been standardized by the Institute of Electrical and Electronics Engineers (IEEE) as IEEE Std 1076; the latest version of which is IEEE Std 1076-2019. To model analog and mixed-signal systems, an IEEE-standardized HDL based on VHDL called VHDL-AMS (officially IEEE 1076.1) has been developed.
+
+https://www.allaboutcircuits.com/technical-articles/hardware-description-langauge-getting-started-vhdl-digital-circuit-design

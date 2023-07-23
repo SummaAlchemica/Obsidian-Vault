@@ -1,0 +1,2 @@
+#Computer 
+JSX is an [[extension]] to the [[JavaScript]] [[language]] [[Synta]] which provides a way to structure component rendering using syntax familiar to many developers commonly used in [[React.js]]. It is similar in appearance to [[HTML]].

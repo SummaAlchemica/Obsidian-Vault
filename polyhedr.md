@@ -1,0 +1,2 @@
+#Math 
+In [[geometry]], a polyhedron is a [[three-dimensional]] [[shape]] with flat [[polygonal face]]s, straight [[edge]]s and sharp [[corner]]s or [[vert]]ices. A [[convex]] polyhedron is the convex hull of [[finitel]]y many [[point]]s, not all on the same [[plane]]. [[Cube]]s and [[pyramid]]s are examples of convex polyhedra.

@@ -1,0 +1,2 @@
+#Psychology 
+Intelligence has been defined in many ways: the capacity for [[abstract]]ion, [[logic]], [[understand]]ing, [[self-aware]]ness, [[learn]]ing, [[emotion]]al [[knowledge]], [[reasoning]], planning, [[creativity]], [[critical thinking]], and [[problem-solving]]. 

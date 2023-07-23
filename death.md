@@ -1,0 +1,2 @@
+#Biology 
+Death is the irreversible cessation of all biological functions that sustain an [[organism]]. For organisms with a [[brain]], death can also be defined as the irreversible cessation of functioning of the whole brain, including the [[brainstem]], and brain death is sometimes used as a [[legal]] definition of death.

@@ -1,0 +1,2 @@
+#Linguistics 
+In [[language]], a clause is a constituent that comprises a [[semantic]] [[predicand]] and a semantic [[predicate]]. A typical clause consists of a [[subject]] and a [[syntactic]] predicate, the latter typically a verb phrase composed of a verb with any [[object]]s and other [[modifier]]s.

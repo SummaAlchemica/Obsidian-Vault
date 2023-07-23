@@ -1,0 +1,2 @@
+#Art 
+Music is generally defined as the [[art]] of arranging sound to create some combination of [[form (musical)]], [[harmony]], [[melody]], [[rhythm]] or otherwise expressive content. Definitions of music vary depending on [[culture]], though it is an aspect of all [[human]] societies, a cul tural universal. 

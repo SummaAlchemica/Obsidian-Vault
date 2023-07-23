@@ -1,0 +1,2 @@
+#Philosophy 
+Christianity is an [[Abraham]]ic [[monotheis]]tic [[religio]]n based on the life and teachings of Jesus of Nazareth. It is the world's largest and most widespread religion with roughly 2.4 billion followers representing one-third of the global population.

@@ -1,0 +1,2 @@
+#Computer 
+[[GNU]] Emacs is an extensible, customizable [[text editor]] - and more. At its core is an [[interpret]]er for Emacs [[Lisp]], a dialect of the Lisp p[[rogramming language]] with extensions to support text editing. Refer to the Emacs Documentation page for more detailed information.

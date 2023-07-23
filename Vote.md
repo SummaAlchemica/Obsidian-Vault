@@ -1,0 +1,2 @@
+#Law 
+Voting is a method by which a group, such as a meeting or an electorate, convenes together for the purpose of making a [[collective]] decision or expressing an opinion usually following discussions, [[debate]]s or [[election]] campaigns. [[Democra]]cies elect holders of high office by voting.

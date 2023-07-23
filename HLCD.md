@@ -1,0 +1,3 @@
+#Computer 
+high level [[circuit design]] or High-level design (HLD) explains the [[architecture]] that would be used to develop a [[system]]. The architecture diagram provides an overview of an entire system, identifying the main components that would be developed for the product and their interfaces. The HLD can use non-technical to mildly technical terms which should be understandable to the administrators of the system. In contrast, [[low-level]] design further exposes the logical detailed design of each of these elements for use by [[engineer]]s and [[program]]mers. HLD documentation should cover the planned implementation of both [[software]] and [[hardware]]. 
+![[HLCD.pdf]]

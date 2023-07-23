@@ -1,0 +1,2 @@
+#Math 
+In [[discrete]] [[math]]ematics, and more specifically in [[graph theory]], a graph is a structure amounting to a [[set]] of [[object]]s in which some pairs of the objects are in some sense "related". The objects correspond to mathematical [[abstract]]ions called [[vert]]ices and each of the related pairs of vertices is called an [[edge]].

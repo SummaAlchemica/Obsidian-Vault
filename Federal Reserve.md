@@ -1,0 +1,2 @@
+#Economics 
+The Federal Reserve System is the [[central bank]]ing system of the [[United States]]. It was created on December 23, 1913, with the enactment of the Federal Reserve Act, after a series of [[financial]] panics led to the desire for central control of the monetary system in order to alleviate financial crises.

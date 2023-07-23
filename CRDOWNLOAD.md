@@ -1,0 +1,2 @@
+#Computer 
+What is a CRDOWNLOAD [[file]]? A CRDOWNLOAD file is a partially downloaded file created by [[Google Chrome]], [[Microsoft Edge]], and [[Chromium web browser]]s that stores the contents of a file while the browser [[download]]s it. The . crdownload [[extension]] is temporary, and the web browser removes it once the download is complete.

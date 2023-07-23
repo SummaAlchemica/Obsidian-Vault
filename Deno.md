@@ -1,0 +1,2 @@
+#Computer 
+Deno is a runtime for [[JavaScript]], [[TypeScript]], and [[WebAssembly]] that is based on the [[V8 JavaScript engine]] and the [[Rust]] [[programming language]]. Deno was co-created by Ryan Dahl, who also created [[Node.js]].

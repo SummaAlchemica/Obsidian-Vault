@@ -1,0 +1,2 @@
+#Math  
+A theoretical model describes a type of object or s. attributing to it what might be called an inner structure, or [[mechanism]], reference to which will explain various. exhibited by that [[object]] or [[system]].

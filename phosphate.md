@@ -1,0 +1,2 @@
+#Chemistry 
+In chemistry, a phosphate is an [[anion]], [[salt]], [[functional group]] or [[ester]] derived from a [[phosphoric acid]]. It most commonly means [[orthophosphate]], a derivative of [[orthophosphoric acid]], aka. phosphoric acid H₃PO₄

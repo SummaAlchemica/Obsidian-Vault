@@ -1,0 +1,2 @@
+#Law 
+A unitary state is a [[sovereign]] state governed as a single entity in which the [[central government]] is the supreme [[authority]]. The central [[government]] may create [[administrat]]ive divisions. Such units exercise only the powers that the central government chooses to [[delegat]]e.

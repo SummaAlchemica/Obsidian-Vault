@@ -1,0 +1,2 @@
+#Math  
+In [[math]]ematics, a transformation is a [[function]] f, usually with some [[geometric]]al underpinning, that maps a set X to itself, i.e. f : X → X.[1][2][3] Examples include [[linear transformation]]s of [[vector space]]s and [[geometric transformation]]s, which include [[projective transformation]]s, [[affine transformation]]s, and specific affine transformations, such as [[rotation]]s, [[reflection]]s and [[translation]]s.[4][5]

@@ -1,0 +1,2 @@
+#Math 
+In [[geometry]], a line is an [[infinit]]ely long object with no [[width]], [[depth]], or [[curvature]]. Thus, lines are [[one-dimensional]] [[object]]s, though they may exist embedded in two, three, or higher dimension [[space]]s. The word line may also refer to a line segment in everyday life, which has two points to denote its ends.

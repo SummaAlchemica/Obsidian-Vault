@@ -1,0 +1,2 @@
+#Computer 
+In [[comput]]er science, an array is a [[data structure]] consisting of a collection of elements, of same [[memory]] size, each identified by at least one array [[index]] or key. An array is stored such that the position of each element can be computed from its index [[tuple]] by a [[math]]ematical formula.

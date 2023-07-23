@@ -1,0 +1,2 @@
+#Biology 
+Body ([[biolog]]y), the [[physical]] material of an [[organism]]. Body plan, the physical features shared by a group of [[animal]]s. [[Human]] body, the entire structure of a human organism. Dead ([[death]]) body, [[cadaver]], or [[corpse]], a dead human body.

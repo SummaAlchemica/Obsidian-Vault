@@ -1,0 +1,2 @@
+#Math 
+In [[Euclid]]ean [[geometry]], a plane is a flat [[two-dimensional]] [[surface]] that extends indefinitely. Euclidean planes often arise as [[subspace]]s of [[three-dimensional]] [[space]] \mathbb {R} ^{3}. A [[prototyp]]ical example is one of a room's walls, [[infinite]]ly extended and assumed [[infinitesimal]] thin.

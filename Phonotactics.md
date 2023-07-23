@@ -1,0 +1,2 @@
+#Linguistics 
+Phonotactics is a branch of [[phonology]] that deals with restrictions in a [[language]] on the permissible [[combination]]s of [[phoneme]]s. Phonotactics defines permissible [[syllable]] structure, [[consonant]] clusters and [[vowel]] sequences by means of phonotactic constraints. Phonotactic constraints are highly [[language-specific]].

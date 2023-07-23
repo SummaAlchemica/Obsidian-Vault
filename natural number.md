@@ -1,0 +1,12 @@
+#Math 
+mathematics, the natural numbers are the numbers 1, 2, 3, etc., possibly including 0 as well. Some definitions, including the standard ISO 80000-2,[1][a] begin the natural [[number]]s with 0, corresponding to the non-negative integers 0, 1, 2, 3, ..., whereas others start with 1, corresponding to the [[positive]] [[integer]]s 1, 2, 3, ...[2][b] Texts that exclude zero from the natural numbers sometimes refer to the natural numbers together with zero as the [[whole number]]s, while in other writings, that term is used instead for the integers (including negative integers).[4] In common language, particularly in primary school education, natural numbers may be called [[count]]ing numbers[5] to intuitively exclude the negative integers and zero, and also to contrast the [[discre]]teness of counting to the continuity of measurement—a hallmark characteristic of real numbers.
+
+The natural numbers can be used for counting (as in "there are six coins on the table"), in which case they serve as cardinal numbers. They may also be used for ordering (as in "this is the third largest city in the country"), in which case they serve as ordinal numbers. Natural numbers are sometimes used as labels, known as nominal numbers, having none of the properties of numbers in a mathematical sense (e.g. sports jersey numbers).[3][6]
+
+The natural numbers form a [[set]]. Many other number sets are built by successively extending the set of natural numbers: the integers, by including an additive identity 0 (if not yet in) and an additive inverse −n for each nonzero natural number n; the rational numbers, by including a multiplicative inverse 
+1
+/
+�
+1/n for each nonzero integer n (and also the product of these inverses by integers); the real numbers by including the limits of Cauchy sequences[c] of rationals; the complex numbers, by adjoining to the real numbers a square root of −1 (and also the sums and products thereof); and so on.[d][e] This chain of extensions canonically embeds the natural numbers in the other number systems.
+
+Properties of the natural numbers, such as divisibility and the distribution of prime numbers, are studied in number theory. Problems concerning counting and ordering, such as partitioning and enumerations, are studied in combinatorics.

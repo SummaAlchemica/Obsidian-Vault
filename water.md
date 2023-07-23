@@ -1,0 +1,2 @@
+#Chemistry 
+Water is an [[inorganic]] [[compound]] with the chemical formula H₂O. It is a transparent, tasteless, odorless, and nearly colorless [[chemical]] substance, and it is the main constituent of [[Earth]]'s [[hydrosphere]] and the fluids of all known living [[organism]]s. It can be found in all 3 [[states of matter]] on earth. 

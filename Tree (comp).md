@@ -1,0 +1,8 @@
+#Computer 
+In [[computer science]], a tree is a widely used [[abstract]] [[data]] [[type]] that represents a [[hierarch]]ical tree structure with a set of connected [[node]]s. Each node in the tree can be connected to many children (depending on the type of tree), but must be connected to exactly one parent,[1] except for the root node, which has no parent. These constraints mean there are no cycles or "[[loop]]s" (no node can be its own ancestor), and also that each child can be treated like the root node of its own [[subtree]], making recursion a useful technique for tree traversal. In contrast to linear data structures, many trees cannot be represented by relationships between neighboring nodes in a single straight line.
+
+[[Binary tree]]s are a commonly used type, which constrain the number of children for each parent to at most two. When the order of the children is specified, this data structure corresponds to an ordered tree in [[graph theory]]. A [[value]] or [[pointer]] to other data may be associated with every node in the tree, or sometimes only with the [[leaf node]]s, which have no children.
+
+The abstract data type can be represented in a number of ways, including a list of parents with pointers to children, a list of children with pointers to parents, or a list of nodes and a separate list of parent-child relations (a specific type of adjacency list). Representations might also be more complicated, for example using indexes or ancestor lists for performance.
+
+Trees as used in computing are similar to but can be different from mathematical constructs of trees in graph theory, trees in set theory, and trees in descriptive set theory.

@@ -1,0 +1,2 @@
+#Math 
+In [[Euclid]]ean [[geometry]], an angle is the figure formed by two [[ray]]s, called the [[side]]s of the angle, sharing a common endpoint, called the [[vertex]] of the angle. Angles formed by two rays are also known as [[plane]] [[angle]]s as they lie in the plane that contains the rays

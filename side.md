@@ -1,0 +1,2 @@
+#Math 
+In [[geometry]], an [[edge]] is a particular type of [[line]] segment joining two [[vert]]ices in a [[polygon]], [[polyhedr]]on, or higher-dimensional [[polytope]]. In a polygon, an edge is a line segment on the boundary, and is often called a polygon side.

@@ -1,0 +1,2 @@
+#Computer 
+In [[computer science]], an interpreter is **a computer program that directly executes instructions written in a programming or [[scripting language]]**, without requiring them previously to have been [[compile]]d into a [[Machine Language]] [[program]].

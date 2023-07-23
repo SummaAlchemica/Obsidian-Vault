@@ -1,0 +1,2 @@
+#Computer 
+HTTPS means Hypertext Transfer Protocol Secure (HTTPS) and it is used to establish a secure connection between you and the site that you visit. With HTTPS enabled, communications between your [[web]] browser and the [[webserver]] (which hosts the website that you visit) get [[encrypt]]ed by a secure certificate known as an [[SSL]] (Secure Sockets Layer). This encryption of the transmitted [[data]] helps prevent [[hacker]]s from sniffing your private information.

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"f17c424ae4c7dc25","x":-408,"y":-738,"width":250,"height":60},
+		{"type":"text","text":"Portfolio","id":"7d89db6d710bc93a","x":-710,"y":-480,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Contact","id":"017f8594ebe604d3","x":-460,"y":-480,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[Home page ](https://docs.google.com/document/d/1VpMgN7A5OVAPULEsP0_aCFj9cZnWbRVmabZKHmYmQd8/edit)\n","id":"67e1ae4356a0fac6","x":-585,"y":-720,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Linkedin, email","id":"51260e5c368febf4","x":-335,"y":-160,"width":250,"height":90,"color":"3"},
+		{"type":"text","text":"Weightlifting content, instagram","id":"f1bc368cc40b620f","x":-85,"y":-160,"width":250,"height":90,"color":"3"},
+		{"type":"text","text":"Blog","id":"9aa267b870d4a3d2","x":-2085,"y":-145,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"\"Advice to beginner developers and programmers\"","id":"02155046c5cd0037","x":-2085,"y":-85,"width":250,"height":160,"color":"3"},
+		{"type":"text","text":"The new MIT project and self education. ","id":"064ef8fabb332205","x":-2085,"y":75,"width":250,"height":110,"color":"3"},
+		{"type":"text","text":"Obsidian vault display and methods","id":"19b774f38f426c7c","x":-2085,"y":185,"width":250,"height":120,"color":"3"},
+		{"type":"text","text":"\"Mantis\" [bug tracker](https://docs.google.com/document/d/1mlNKftGRubcORcSS4dGp8XdaGPYxJuazENKxmWeq0F0/edit)\n","id":"4c21f9db14ce9166","x":-1835,"y":-145,"width":250,"height":140,"color":"3"},
+		{"type":"text","text":"Interactive developer roadmap","id":"9d46aee7c6cf2c04","x":-1585,"y":-145,"width":250,"height":140,"color":"3"},
+		{"type":"text","text":"Supertotal AI","id":"88557066df1d0f14","x":-1335,"y":-145,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Wordpress dupe","id":"666e23c04fa9851b","x":-1085,"y":-145,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Native anki-pomodoro-obsidian","id":"268c75f6a095df11","x":-835,"y":-145,"width":250,"height":140,"color":"3"},
+		{"type":"text","text":"[Full Stack Developer Reviews Viewer Portfolios | Junior Developer Portfolio Reviews](https://www.youtube.com/watch?v=Eb6yFhkzpmI&t=637s&ab_channel=DarianSampare)\n","id":"bc84baa8ff89daa0","x":-1160,"y":-909,"width":250,"height":249},
+		{"type":"text","text":"Websites for parents","id":"e72a63aecf0d7bc8","x":-1460,"y":-495,"width":250,"height":90,"color":"3"},
+		{"type":"text","text":"Skill modules and exhibitions (click through step by step to see it built )","id":"7c44d0225fe58103","x":-1585,"y":-5,"width":250,"height":190,"color":"3"},
+		{"type":"text","text":"[Tech with Time project](https://www.youtube.com/watch?v=7N3fQBuve3Y&ab_channel=TechWithTim)","id":"d9bb1c3947c5330d","x":-1835,"y":-5,"width":250,"height":95},
+		{"type":"text","text":"[Project wishlist](https://docs.google.com/spreadsheets/u/1/d/1FmmFIHzz5XHL1XfhlOFOdpErgAdVgXGc8P8n876Yh-Y/edit#gid=0)","id":"c93195bf8abfe893","x":-1835,"y":90,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"fc210c0c72b87c44","fromNode":"67e1ae4356a0fac6","fromSide":"bottom","toNode":"017f8594ebe604d3","toSide":"top"},
+		{"id":"7ca671277eeb128a","fromNode":"67e1ae4356a0fac6","fromSide":"bottom","toNode":"7d89db6d710bc93a","toSide":"top"},
+		{"id":"5bc98cf9ef2953d5","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"9aa267b870d4a3d2","toSide":"top"},
+		{"id":"9019aecda103b908","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"4c21f9db14ce9166","toSide":"top"},
+		{"id":"9f1afb274923e4c0","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"9d46aee7c6cf2c04","toSide":"top"},
+		{"id":"b0b54a82ad04cdd3","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"88557066df1d0f14","toSide":"top"},
+		{"id":"69977f627ab440db","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"666e23c04fa9851b","toSide":"top"},
+		{"id":"5e5c20dc4f32519f","fromNode":"7d89db6d710bc93a","fromSide":"bottom","toNode":"268c75f6a095df11","toSide":"top"},
+		{"id":"222cb15e76252e2d","fromNode":"017f8594ebe604d3","fromSide":"bottom","toNode":"51260e5c368febf4","toSide":"top"},
+		{"id":"71b41e732cec304a","fromNode":"017f8594ebe604d3","fromSide":"bottom","toNode":"f1bc368cc40b620f","toSide":"top"},
+		{"id":"1006fec6560f2045","fromNode":"7d89db6d710bc93a","fromSide":"left","toNode":"e72a63aecf0d7bc8","toSide":"right"}
+	]
+}

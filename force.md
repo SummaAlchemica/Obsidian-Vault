@@ -1,0 +1,2 @@
+#Physics 
+In [[Physic]], a force is an influence that causes the [[motion]] of an [[object]] with [[mass]] to change its [[velocity]], i.e., to [[accelerate]]. It can be a push or a pull, always with [[magnitude]] and [[direction]], making it a [[vector]] quantity

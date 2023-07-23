@@ -1,0 +1,2 @@
+ #Philosophy 
+A principle is a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of [reasoning](https://www.google.com/search?rlz=1C1RXQR_enUS943US944&sxsrf=APwXEdfh-ec9O4ni5ssw_OEu5Bilhkuexg:1683238108940&q=reasoning&si=AMnBZoFEI0LGJdD1jElhAGFwRnmoQ675QYkM9eSw2AqhpqClUYsNGEqiewgY8IbnVx_DMlZX3cSDEgDhNAqeJ4lvw-pCZdtImQ%3D%3D&expnd=1).

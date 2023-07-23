@@ -1,0 +1,2 @@
+#Computer 
+In [[cryptography]], SHA-1 is a hash [[function]] which takes an [[input]] and produces a [[160-bit]] [[hash]] [[value]] known as a [[message digest]] – typically rendered as 40 [[hexadecimal]] [[digit]]s. It was designed by the [[United States]] [[National Security Agency]], and is a U.S.[[ Federal Information Processing Standard]].

@@ -1,0 +1,5 @@
+#Physics \
+
+Theoretical physics is a branch of [[Physic]] that employs [[math]]ematical [[model]]s and [[abstract]]ions of physical objects and systems to [[rational]]ize, explain and predict natural [[phenomena]]. This is in contrast to [[experimental physics,]] which uses experimental tools to probe these phenomena.
+
+The advancement of science generally depends on the interplay between experimental studies and theory. In some cases, theoretical physics adheres to standards of mathematical rigour while giving little weight to experiments and observations.[a] For example, while developing [[special relativity]], Albert [[Einstein]] was concerned with the [[Lorentz transformation]] which left [[Maxwell's equations]] invariant, but was apparently uninterested in the [[Michelson–Morley experiment]] on Earth's drift through a [[luminiferous]] [[aether]].[1] Conversely, Einstein was awarded the [[Nobel Prize]] for explaining the [[photoelectric]] effect, previously an experimental result lacking a theoretical formulation.[2]

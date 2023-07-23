@@ -1,0 +1,2 @@
+#Language 
+A vocabulary is a set of familiar [[word]]s within a person's [[language]]. A vocabulary, usually developed with age, serves as a useful and fundamental [[tool]] for communication and acquiring [[knowledge]]. Acquiring an extensive vocabulary is one of the largest challenges in learning a [[second language]].

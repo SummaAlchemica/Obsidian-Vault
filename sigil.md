@@ -1,0 +1,2 @@
+#Philosophy 
+A sigil is a type of [[symbol]] used in [[magic]]. The term has usually referred to a pictorial signature of a [[deity]] or [[spirit]]. In modern usage, especially in the context of [[chaos magic]], sigil refers to a symbolic representation of the practitioner's desired outcome.

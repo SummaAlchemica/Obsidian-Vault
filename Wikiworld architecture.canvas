@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"type":"group","id":"0bb5c48c516a0660","x":380,"y":260,"width":685,"height":1060,"color":"2","label":"Server"},
+		{"type":"group","id":"5cc279bc38424353","x":525,"y":345,"width":395,"height":730,"color":"2","label":"Node"},
+		{"type":"group","id":"50526206d0613adb","x":1300,"y":533,"width":395,"height":515,"color":"1","label":"MongoDB (JSON files"},
+		{"type":"group","id":"2b918caee686a2f9","x":545,"y":545,"width":355,"height":510,"color":"3","label":"Web scraper"},
+		{"type":"group","id":"0cb6f10ffd9a0cb1","x":-200,"y":555,"width":290,"height":469,"color":"4","label":"Client"},
+		{"type":"group","id":"e9edcd44eaf7d007","x":-200,"y":200,"width":290,"height":193,"color":"5","label":"Game"},
+		{"type":"text","text":"Scraped articles","id":"85b59a06342e68eb","x":1320,"y":553,"width":355,"height":80,"color":"1"},
+		{"type":"text","text":"Seeds and tags","id":"7ae59ff467ca4260","x":1320,"y":633,"width":355,"height":80,"color":"1"},
+		{"type":"text","text":"Linked graph data","id":"28446b41541518d5","x":1320,"y":713,"width":355,"height":115,"color":"1"},
+		{"type":"text","text":"PageController.js","id":"e9538d46cadcd051","x":565,"y":765,"width":315,"height":60,"color":"3"},
+		{"type":"text","text":"PageScraper.js","id":"e06fe7938453736e","x":565,"y":825,"width":315,"height":60,"color":"3"},
+		{"type":"text","text":"Index.js","id":"9bc93c1941f0028f","x":565,"y":565,"width":315,"height":60,"color":"3"},
+		{"type":"text","text":"Browser.js","id":"7a0405fa6a40dd49","x":565,"y":705,"width":315,"height":60,"color":"3"},
+		{"type":"text","text":"Puppeteer","id":"c4b93a242fb908f6","x":602,"y":646,"width":241,"height":60,"color":"3"},
+		{"type":"text","text":"Express","id":"a81abf6098309e42","x":627,"y":365,"width":191,"height":50,"color":"2"},
+		{"type":"text","text":"User input","id":"12857a15eb6aad3e","x":-183,"y":598,"width":250,"height":70,"color":"4"},
+		{"type":"text","text":"Angular template","id":"82a89659f9b6bf03","x":-183,"y":701,"width":250,"height":100,"color":"4"},
+		{"type":"text","text":"D3 render","id":"2ad1f5ae3ff2e987","x":-183,"y":831,"width":250,"height":134,"color":"4"},
+		{"type":"text","text":"Characters","id":"68dc51cf9cc6c029","x":-180,"y":220,"width":250,"height":70,"color":"5"},
+		{"type":"text","text":"D3 modules","id":"d5655266e679fa25","x":545,"y":1200,"width":355,"height":86,"color":"3"},
+		{"type":"text","text":"Node modules","id":"59db1d61b67acfc5","x":565,"y":1140,"width":315,"height":60,"color":"3"},
+		{"type":"text","text":"Sorter/tagger","id":"ad44074645ae74db","x":586,"y":940,"width":275,"height":50,"color":"3"},
+		{"type":"file","file":"Pasted image 20230721101917.png","id":"a49a294fdcebce98","x":120,"y":-500,"width":1162,"height":511},
+		{"type":"text","text":"Items","id":"eeb0e009df51d457","x":-180,"y":303,"width":250,"height":70,"color":"5"},
+		{"type":"text","text":"HOW THE APP WORKS\nA web scraper indexes all of wikipedia (and the internet eventually), generating a list of pages and relationships. This gets rende","id":"1be0a7acc2b2ed9f","x":-860,"y":240,"width":550,"height":651}
+	],
+	"edges":[
+		{"id":"8b81a87cb9ec9e54","fromNode":"9bc93c1941f0028f","fromSide":"bottom","toNode":"c4b93a242fb908f6","toSide":"top"},
+		{"id":"8c2ba68ca1bd2322","fromNode":"82a89659f9b6bf03","fromSide":"bottom","toNode":"2ad1f5ae3ff2e987","toSide":"top"},
+		{"id":"2084c05dff3920ef","fromNode":"0bb5c48c516a0660","fromSide":"right","toNode":"50526206d0613adb","toSide":"left"},
+		{"id":"7ae334897ebbc74e","fromNode":"50526206d0613adb","fromSide":"left","toNode":"0bb5c48c516a0660","toSide":"right"},
+		{"id":"9709f5ca02dcb79e","fromNode":"12857a15eb6aad3e","fromSide":"bottom","toNode":"82a89659f9b6bf03","toSide":"top"},
+		{"id":"911bb946268fb284","fromNode":"0cb6f10ffd9a0cb1","fromSide":"right","toNode":"0bb5c48c516a0660","toSide":"left"},
+		{"id":"7259e730e16fe5d4","fromNode":"0bb5c48c516a0660","fromSide":"left","toNode":"0cb6f10ffd9a0cb1","toSide":"right"}
+	]
+}

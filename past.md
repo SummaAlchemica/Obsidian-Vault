@@ -1,0 +1,2 @@
+#Physics 
+The past is the set of all events that occurred before a given point in [[time]]. The past is contrasted with and defined by the [[present]] and the [[future]]. The concept of the past is derived from the linear fashion in which [[human]] [[observer]]s [[experience]] time, and is accessed through [[memory]] and recollection.

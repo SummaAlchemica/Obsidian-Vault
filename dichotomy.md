@@ -1,0 +1,2 @@
+#Linguistics 
+A dichotomy is a partition of a whole into two parts. In other words, this couple of parts must be jointly exhaustive: everything must belong to one part or the other, and mutually exclusive: nothing can belong [[simultaneous]]ly to both parts.

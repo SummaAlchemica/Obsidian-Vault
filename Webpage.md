@@ -1,0 +1,1 @@
+#Computer A webpage is a section of published information on the [[internet]] which contains [[HTML]], [[CSS]] and [[Javascript]]. The practice of developing web pages is called [[Front-End]].

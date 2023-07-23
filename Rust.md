@@ -1,0 +1,6 @@
+#Computer 
+Rust is a [[multi-paradigm]], [[high-level]], [[general-purpose]] [[programming language]] that emphasizes performance, type safety, and concurrency. It enforces [[memory]] safety—ensuring that all references point to valid memory—without requiring the use of a [[garbage collector]] or reference counting present in other [[memory-safe]] [[language]]s. To simultaneously enforce memory safety and prevent concurrent data races, its "[[borrow checker]]" tracks the object lifetime of all references in a program during compilation. Rust is popular for systems programming but also has high-level features including some [[functional programming]] constructs.[12]
+
+[[Software]] developer Graydon Hoare created Rust as a personal project while working at Mozilla Research in 2006. Mozilla officially sponsored the project in 2009. Since the first stable release in May 2015, Rust has been adopted by companies including [[Amazon]], [[Discord]], [[Dropbox]], [[Facebook]] (Meta), [[Google]] (Alphabet), and [[Microsoft]].
+
+Rust has been noted for its growth as a newer language[13][14] and has been the subject of academic programming languages research.[15][16][17] In December 2022, it became the second high-level language to be supported in the development of the [[Linux]] [[kernel]], the first being [[C (programming language)]].

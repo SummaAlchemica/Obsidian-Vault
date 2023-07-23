@@ -1,0 +1,2 @@
+#Math 
+In [[optics]], a ray is an idealized geometrical [[model]] of [[light]] or other [[electromagnetic]] [[radiation]], obtained by choosing a [[curve]] that is [[perpendicular]] to the [[wavefront]]s of the actual light, and that points in the direction of [[energy]] [[flow]].

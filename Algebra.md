@@ -1,0 +1,2 @@
+#Math 
+Algebra is a branch of [[math]]ematics in which letters and other general symbols are used to represent numbers and quantities in [formulae](https://www.google.com/search?rlz=1C1RXQR_enUS943US944&sxsrf=APwXEdducbNtU1bUMkTmI04bJG3sna5d_w:1683237626565&q=formulae&si=AMnBZoFm76bvId4K9j6r5bU9rVYrFZFFaspZfb4F4uIcx1rXoxk71dswsgqW0CqkqnGlq94sCUHRolK8niUX7eCk0b59cCRXJg%3D%3D&expnd=1) and equations.

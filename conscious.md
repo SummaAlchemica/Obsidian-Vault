@@ -1,0 +1,2 @@
+#Psychology 
+Consciousness, at its simplest, is [[sentience]] and awareness of internal and external [[existence]]. However, its nature has led to millennia of analyses, explanations and debates by philosophers, theologians, linguists, and scientists. Opinions differ about what exactly needs to be studied or even considered consciousness.

@@ -1,0 +1,2 @@
+#Engineering 
+Direct current is one-directional flow of electric charge. An [[electrochemical]] cell is a prime example of DC power. Direct current may flow through a [[conductor]] such as a [[wire]], but can also flow through [[semiconductor]]s, [[insulator]]s, or even through a [[vacuum]] as in [[electron]] or [[ion]] beams.

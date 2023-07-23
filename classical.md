@@ -1,0 +1,7 @@
+#Art 
+Classics or classical studies is the study of classical [[antiquity]]. In the [[Western world]], classics [[tradition]]ally refers to the study of Classical [[Greek]] and [[Roman]] [[literature]] and their related original [[language]]s, Ancient Greek and Latin. Classics also includes Greco-Roman philosophy, history, archaeology, anthropology, art, mythology and society as secondary subjects.
+
+In Western civilization, the study of the Greek and Roman classics was traditionally considered to be the foundation of the humanities, and has, therefore, traditionally been the cornerstone of a typical elite European [[education]].
+
+Etymology
+The word classics is derived from the Latin adjective classicus, meaning "belonging to the highest class of citizens." The word was originally used to describe the members of the [[Patrician]]s, the highest class in ancient [[Rome]]. By the 2nd century AD the word was used in literary criticism to describe writers of the highest quality.[1] For example, Aulus Gellius, in his Attic Nights, contrasts "classicus" and "proletarius" writers.[2] By the 6th century AD, the word had acquired a second meaning, referring to pupils at a school.[1] Thus, the two modern meanings of the word, referring both to literature considered to be of the highest quality, and to the standard [[text]]s used as part of a curriculum, both derive from Roman use.[1]

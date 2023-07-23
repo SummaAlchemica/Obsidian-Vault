@@ -1,0 +1,8 @@
+#Art 
+Rhythm (from [[Greek]] ῥυθμός, rhythmos, "any regular recurring [[motion]], [[symmetry]]"[1]) generally means a "movement marked by the regulated succession of strong and weak elements, or of opposite or different conditions".[2] This general meaning of regular recurrence or [[pattern]] in [[time]] can apply to a wide variety of [[cyclical]] natural phenomena having a periodicity or frequency of anything from microseconds to several [[seconds]] (as with the riff in a [[rock]] [[music]] song); to several minutes or hours, or, at the most extreme, even over many years.
+
+Rhythm is related to and distinguished from pulse, meter, and beats:
+
+Rhythm may be defined as the way in which one or more un[[accent]]ed [[beat]]s are grouped in relation to an accented one. ... A rhythmic group can be apprehended only when its elements are distinguished from one another, rhythm...always involves an interrelationship between a single, accented (strong) beat and either one or two unaccented (weak) beats.[3]
+
+In the performance arts, rhythm is the timing of events on a human scale; of musical [[sound]]s and[[ silence]]s that occur over time, of the steps of a [[dance]], or the [[meter (musical)]] of spoken language and [[poetry]]. In some [[performing art]]s, such as [[hip hop]] music, the rhythmic delivery of the lyrics is one of the most important elements of the style. Rhythm may also refer to visual presentation, as "timed movement through [[space]]"[4] and a common [[language]] of pattern unites rhythm with [[geometry]]. For example, [[architect]]s often speak of the rhythm of a building, referring to patterns in the spacing of windows, columns, and other elements of the façade.

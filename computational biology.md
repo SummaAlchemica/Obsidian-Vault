@@ -1,0 +1,2 @@
+#Biology 
+Computational biology refers to the use of [[data]] [[analysis]], [[math]]ematical [[model]]ing and computational [[simulation]]s to understand biological [[system]]s and relationships. An intersection of [[computer science]], [[biolog]], and [[big data]], the field also has foundations in applied [[math]]ematics, [[chemistry]], and [[genetic]]s.

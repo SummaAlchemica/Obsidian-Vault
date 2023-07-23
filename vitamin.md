@@ -1,0 +1,2 @@
+#Biology 
+Vitamins are organic [[molecule]]s that are essential to an [[organism]] in small quantities for proper [[metabolic]] function. Essential nutrients cannot be synthesized in the organism in sufficient quantities for survival, and therefore must be obtained through the diet

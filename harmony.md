@@ -1,0 +1,2 @@
+#Art 
+In [[music]], harmony is the process by which individual sounds are joined or composed into whole units or [[composition]]s. Often, the term harmony refers to simultaneously occurring [[frequencies]],[[ pitch]]es, or [[chord]]s. However, harmony is generally understood to involve both [[vertical harmony]] and [[horizontal harmony]]

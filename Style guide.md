@@ -1,0 +1,2 @@
+#Computer 
+A [[CSS]] style guide is a set of standards and rules on how to use and write CSS [[code]]. It often contains global branding definitions like [[color]]s and [[typography]] and a set of [[reusable component]]s for building a more consistent and [[maintainab]]le project.

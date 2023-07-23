@@ -1,0 +1,2 @@
+#Computer 
+In computer science, the general meaning of input is to provide or give something to the [[Comput]], in other words, when a computer or device is receiving a command or [[signal]] from outer sources, the event is referred to as input to the [[device]].

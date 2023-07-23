@@ -1,0 +1,2 @@
+#Computer 
+A binary [[code]] represents [[text]], [[Comput]] [[processor]] instructions, or any other [[data]] using a two-symbol system. The two-symbol system used is often "[[0]]" and "[[1]]" from the binary number system. The binary code assigns a pattern of binary digits, also known as [[bit]]s, to each [[character (ling)]], instruction, etc. 

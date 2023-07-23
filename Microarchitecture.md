@@ -1,0 +1,5 @@
+#Computer 
+In [[computer engineering]], microarchitecture, also called computer organization and sometimes abbreviated as µarch or uarch, is the way a given [[instruction set architecture]] (ISA) is implemented in a particular [[processor]].[1] A given ISA may be implemented with different microarchitectures;[2][3] implementations may vary due to different goals of a given design or due to shifts in technology.[4]
+
+[[Computer architecture]] is the combination of microarchitecture and instruction set architecture.
+

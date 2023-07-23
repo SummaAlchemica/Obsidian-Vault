@@ -1,0 +1,2 @@
+#Math 
+Differential geometry is a [[math]]ematical discipline that studies the [[geometry]] of [[smooth shape]]s and [[smooth space]]s, otherwise known as [[smooth manifold]]s. It uses the techniques of [[differential calculus]], [[integral calculus]], [[linear algebra]] and [[multilinear algebra]].

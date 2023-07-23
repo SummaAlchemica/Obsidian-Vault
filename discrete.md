@@ -1,0 +1,2 @@
+#Math 
+Discrete [[Math]]ematics is the study of mathematical structures that can be considered "discrete" rather than "[[continuous]]". [[Object]]s studied in discrete mathematics include [[integer]]s, [[graph]]s, and statements in [[logic]].

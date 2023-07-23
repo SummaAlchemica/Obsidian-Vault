@@ -1,0 +1,2 @@
+#Economics 
+A debtor or debitor is a legal entity that owes a debt to another entity. The entity may be an [[individual]], a [[firm]], a [[government]], a [[company]] or other [[legal]] person. The counterparty is called a [[creditor]]. When the counterpart of this debt arrangement is a [[bank]], the debtor is more often referred to as a borrower.

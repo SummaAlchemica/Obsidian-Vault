@@ -1,0 +1,3 @@
+#Computer #Language #Engineering 
+
+A command [[language]] is a [[Comput]] [[programming language]] composed [chiefly](https://www.google.com/search?rlz=1C1RXQR_enUS943US944&sxsrf=APwXEddE-RUQCsKuzEAAXPluiumqAqGKdQ:1683241767228&q=chiefly&si=AMnBZoFHF1DJLZWpTBtQDK262RMpwylxZM9FTH4330fMXpPNRa62LzuFGS1iyW9VNGm2M65lBRX3MPVH73fADSLxVDbgWOanPg%3D%3D&expnd=1) of a set of commands or [[operators]], used especially for communicating with the [[operating system]] of a computer.

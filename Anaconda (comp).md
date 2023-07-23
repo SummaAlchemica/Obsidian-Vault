@@ -1,0 +1,2 @@
+#Computer 
+Anaconda is a [[distr]]ibution of the [[Python]] and [[R]] [[programming language]]s for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for [[Windows]], [[Linux]], and [[macOS]].

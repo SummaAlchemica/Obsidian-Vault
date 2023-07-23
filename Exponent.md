@@ -1,0 +1,2 @@
+#Math 
+In [[math]]ematics, exponentiation is an [[operation]] involving two [[number]]s, the base and the exponent or power. Exponentiation is written as bⁿ, where b is the base and n is the power; this is pronounced as "b to the n".

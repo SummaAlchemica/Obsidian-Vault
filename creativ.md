@@ -1,0 +1,2 @@
+#Art 
+Creativity is a [[phenomenon]] whereby something new and valuable is formed. The created item may be intangible or a physical object. [[Scholar]]ly interest in creativity is found in a number of disciplines, primarily [[psychology]], [[business]] studies, and [[cognitive]] [[science]]

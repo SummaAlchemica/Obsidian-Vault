@@ -1,0 +1,2 @@
+#Computer 
+OAuth is an open standard for access delegation, commonly used as a way for [[internet]] users to grant websites or applications access to their information on other [[website]]s but without giving them the [[password]]s.

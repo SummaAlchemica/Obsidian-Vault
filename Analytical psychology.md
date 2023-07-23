@@ -1,0 +1,2 @@
+#Psychology #Biology
+Analytical [[Psychology]] is a term coined by Carl [[Jung]], a Swiss psychiatrist, to describe research into his new "empirical science" of the [[psyche]]. It was designed to distinguish it from [[Freud]]'s psychoanalytic theories as their seven-year collaboration on psychoanalysis was drawing to an end between 1912 and 1913

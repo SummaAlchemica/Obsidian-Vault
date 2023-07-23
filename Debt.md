@@ -1,0 +1,2 @@
+#Economics 
+Debt is an obligation that requires one party, the [[Debtor (Borrower)]], to pay [[money]] [[borrow]]ed or otherwise withheld from another party, the [[creditor]]. Debt may be owed by [[sovereign]] [[state]] or [[country]], [[local]] [[government]], [[company]], or an [[individual]]. 

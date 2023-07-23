@@ -1,0 +1,1 @@
+#Physics In [[Physic]] and [[electrical engineering]], a conductor is an object or type of material that allows the flow of [[charge]] in one or more directions. Materials made of [[metal]] are common [[electric]]al conductors. 

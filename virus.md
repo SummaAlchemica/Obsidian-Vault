@@ -1,0 +1,2 @@
+#Biology 
+A virus is a [[submicroscopic]] infectious agent that [[replicate]]s only inside the living [[cell]]s of an [[organism]]. Viruses [[infect]] all life forms, from [[animal]]s and [[plant]]s to [[microorganism]]s, including [[bacteria]] and [[archaea]].

@@ -1,0 +1,3 @@
+#Biology 
+A planche is a skill in [[gymnastic]]s and [[calisthenic]]s in which the [[body]] is held parallel to the ground, while being supported above the floor by straight [[arm]]s. It is a move that requires significant [[strength]] and [[balance]]. There are many variations of a planche, although only two are accredited in artistic gymnastics: the straddle planche, and the full planche.
+![[Planche1-1270198098.png]]

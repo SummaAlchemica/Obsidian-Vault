@@ -1,0 +1,2 @@
+#Linguistics 
+Sociolinguistics is the descriptive study of the effect of any or all aspects of [[society]], including [[cultural norm]]s, expectations, and context, on the way [[language]] is used, and society's effect on language. It can overlap with the [[sociology]] of language, which focuses on the effect of language on society.

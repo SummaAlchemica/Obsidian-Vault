@@ -1,0 +1,2 @@
+#Biology 
+An organism is any biological living system that functions as an individual [[life]] form. All organisms are composed of [[cell]]s. The idea of organism is based on the concept of minimal functional unit of life. The study of organisms is called [[Biolog]]y.

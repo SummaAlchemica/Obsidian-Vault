@@ -1,0 +1,2 @@
+#Computer 
+Software documentation is written text or illustration that accompanies [[Comput]] software or is embedded in the [[source code]]. The documentation either explains how the software operates or how to use it, and may mean different things to people in different roles.

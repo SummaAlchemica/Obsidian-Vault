@@ -1,0 +1,2 @@
+#Math 
+In classical [[Euclid]]ean [[geometry]], a point is a primitive notion that models an exact location in [[space]], and has no [[length]], [[width]], or thickness. In modern [[math]]ematics, a point refers more generally to an element of some [[set]] called a space

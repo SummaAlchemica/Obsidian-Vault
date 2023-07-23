@@ -1,0 +1,2 @@
+#Math 
+Operation. The [[math]]ematical “operation” refers to [[calculat]]ing a [[value]] using [[operand]]s and a math [[operator]]. The [[symbol]] of the math operator has predefined rules to be applied to the given operands or numbers.

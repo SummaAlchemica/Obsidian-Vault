@@ -1,0 +1,2 @@
+#Math 
+L'Hôpital's rule, also known as [[Bernoulli]]'s rule, is a [[math]]ematical theorem that allows evaluating [[limit]]s of [[indeterminate]] forms using [[derivative]]s. Application of the rule often converts an indeterminate form to an [[expression]] that can be easily evaluated by substitution.

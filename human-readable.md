@@ -1,0 +1,2 @@
+#Computer 
+In computing, a human-readable medium or human-readable format is any encoding of [[data]] or [[definition]] that can be naturally read by humans, resulting in human-readable data. It is often encoded as **[[ASCII]] or [[Unicode]] text**, rather than as [[binary]] data.

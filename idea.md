@@ -1,0 +1,2 @@
+#Philosophy 
+In common usage and in [[philosophy]], ideas are the results of [[thought]]. Also in philosophy, ideas can also be [[mental]] representational images of some [[object]]. Many philosophers have considered ideas to be a fundamental [[ontological]] category of being.

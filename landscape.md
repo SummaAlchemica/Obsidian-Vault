@@ -1,0 +1,2 @@
+#Art 
+A landscape is the visible features of an area of [[land]], its [[landform]]s, and how they integrate with [[natural]] or [[man-made]] features, often considered in terms of their [[aesthetic]] appeal.

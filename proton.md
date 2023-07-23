@@ -1,0 +1,3 @@
+#Physics 
+
+-   A **proton** is positively [charged](https://www.techtarget.com/whatis/definition/charge-electric-charge). The number of protons in the [[nucleus]] of an atom is the atomic number for the chemical [[element]]. Different elements' [[atomic number]]s are found in the [[Periodic Table]]. For example, [[sodium]] has 11 protons, and its atomic number is 11. A proton has a rest [[mass]], denoted mp, of approximately 1.673 x 10-27 [[kilogram]] (kg).

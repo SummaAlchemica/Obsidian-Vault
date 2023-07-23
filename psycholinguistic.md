@@ -1,0 +1,8 @@
+#Linguistics 
+Psycholinguistics or [[psychology]] of [[language]] is the study of the interrelation between [[linguistic]] factors and psychological aspects.[1] The discipline is mainly concerned with the mechanisms by which language is processed and represented in the [[mind]] and [[brain]]; that is, the psychological and [[neurobiolog]]ical factors that enable humans to acquire, use, comprehend, and produce language.[2]
+
+Psycholinguistics is concerned with the [[cognitive]] faculties and processes that are necessary to produce the grammatical constructions of language. It is also concerned with the perception of these constructions by a listener.
+
+Initial forays into psycholinguistics were in the philosophical and [[education]]al fields, due mainly to their location in departments other than applied sciences (e.g., cohesive [[data]] on how the human brain functioned). Modern research makes use of [[biology]], [[neuroscience]], [[cognitive science]], [[linguistic]]s, and [[information science]] to study how the mind-brain processes language, and less so the known processes of [[social science]]s, [[human]] [[development]], [[communication]] theories, and [[infant]] development, among others.
+
+There are several subdisciplines with non-invasive techniques for studying the neurological workings of the [[brain]]. For example, [[neurolinguistic]]s has become a field in its own right, and [[developmental psycholinguistic]]s, as a branch of psycholinguistics, concerns itself with a child's ability to learn language.

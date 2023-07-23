@@ -1,0 +1,2 @@
+#Math 
+In mathematics, a matrix is a rectangular [[array]] or [[table]] of [[number]]s, [[symbol]]s, or expressions, arranged in rows and columns, which is used to represent a [[math]]ematical object or a property of such an object. For example, is a matrix with two rows and three columns.

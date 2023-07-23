@@ -1,0 +1,2 @@
+#Chemistry 
+The term chloride refers either to a chloride [[ion]], which is a negatively charged chlorine [[atom]], or a non-charged chlorine atom [[covalent]]ly bonded to the rest of the [[molecule]] by a single bond. Many [[inorganic]] chlorides are [[salt]]s. Many [[organic]] compounds are chlorides.

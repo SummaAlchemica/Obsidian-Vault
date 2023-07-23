@@ -1,0 +1,2 @@
+#Linguistics 
+A noun is a word that generally functions as the name of a specific [[object]] or set of objects, such as living creatures, [[place]]s, [[action]]s, qualities, states of [[existence]], or [[idea]]s. Lexical categories are defined in terms of the ways in which their members combine with other kinds of expressions.

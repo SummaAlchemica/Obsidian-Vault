@@ -1,0 +1,2 @@
+#Computer #Engineering 
+Unix -- trademarked as UNIX -- is **a multiuser, multitasking [[operating system]] (OS) designed for flexibility and adaptability**. Originally developed in the 1970s, Unix was one of the first OSes to be written in the [[C (programming language)]]programming language.

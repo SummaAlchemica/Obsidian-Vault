@@ -1,0 +1,2 @@
+#Physics 
+An anode is an [[electrode]] of a polarized electrical device through which conventional [[current]] enters the device. This contrasts with a [[cathode]], an electrode of the device through which conventional current leaves the device. A common mnemonic is ACID, for "anode current into device".

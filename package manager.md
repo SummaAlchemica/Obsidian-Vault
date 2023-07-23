@@ -1,0 +1,2 @@
+#Computer 
+A package manager or package-management system is a collection of [[software]] tools that automates the process of installing, upgrading, configuring, and removing [[computer program]]s for a [[Comput]] in a consistent manner. A package manager deals with packages, [[Continuous Distribution]]s of software and [[data]] in archive files.

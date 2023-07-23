@@ -1,0 +1,2 @@
+#Computer 
+Dangling [[pointer]]s and wild pointers in [[Comput]] [[program]]ming are pointers that do not point to a valid [[object]] of the appropriate [[type]]. These are special cases of [[memory safe]]ty violations. More generally, [[dangling reference]]s and wild references are references that do not [[resolve]] to a valid destination.

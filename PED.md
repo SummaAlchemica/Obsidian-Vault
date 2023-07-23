@@ -1,0 +1,4 @@
+#Biology 
+Performance-enhancing substances, also known as performance-enhancing [[drug]]s (PEDs),[1] are substances that are used to improve any form of activity performance in humans. A well-known example of cheating in sports involves doping in [[sport]], where banned physical performance-enhancing drugs are used by [[athlete]]s and [[bodybuild]]ers. Athletic performance-enhancing substances are sometimes referred as [[ergogenic]] aids.[2][3] Cognitive performance-enhancing drugs, commonly called [[nootropic]]s,[4] are sometimes used by students to improve academic performance. Performance-enhancing substances are also used by military personnel to enhance combat performance.[5]
+
+The use of performance-enhancing drugs spans the categories of legitimate use and substance abuse.

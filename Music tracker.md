@@ -1,0 +1,6 @@
+#Art 
+A [[music]] [tracker](https://www.youtube.com/watch?v=roBkg-iPrbw&ab_channel=Ahoy) (sometimes referred to as just tracker for short) is a type of music sequencer [[software]] for creating music. The music is represented as discrete musical notes positioned in several channels at chronological positions on a vertical timeline.[1] A music tracker's user interface is traditionally number based. Notes, parameter changes, effects and other commands are entered with the keyboard into a grid of fixed time slots as codes consisting of letters, numbers and hexadecimal digits.[2] Separate patterns have independent timelines; a complete song consists of a master list of repeated patterns.
+
+Later trackers departed from solely using module files, adding other options both to the sound synthesis (hosting generic synthesizers and effects or MIDI output) and to the sequencing (MIDI input and recording), effectively becoming general purpose sequencers with a different user interface.
+
+In the 2010s, tracker music is still featured in [[demoscene]] products for old hardware platforms and demoparties have often separate tracker music competitions. Tracker music may also be used in games which borrow aesthetics from past decades.

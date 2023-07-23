@@ -1,0 +1,10 @@
+#Computer 
+[YAML tutorial](https://www.youtube.com/watch?v=BEki_rsWu4E&ab_channel=KahanDataSolutions)
+
+YAML (/ˈjæməl/) (see § History and name) is a human-readable [[data-serialization language]]. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language ([[XML]]) but has a minimal syntax which intentionally differs from Standard Generalized Markup Language ([[SGML]]). It uses both Python-style indentation to indicate nesting, and a more compact format that uses [...] for lists and {...} for maps but forbids tab characters to use as indentation thus only some [[JSON]] files are valid YAML 1.2.
+
+Custom data types are allowed, but YAML natively encodes [[scalar]]s (such as [[string]]s, [[integer]]s, and [[float]]s), lists, and associative [[array]]s (also known as maps, dictionaries or [[hash]]es). These data types are based on the [[Perl]] [[programming language]], though all commonly used [[high-level]] programming languages share very similar concepts. The colon-centered syntax, used for expressing key-value pairs, is inspired by electronic mail headers as defined in RFC 822, and the document separator --- is borrowed from MIME (RFC 2046). Escape sequences are reused from C, and whitespace wrapping for multi-line strings is inspired by HTML. Lists and hashes can contain nested lists and hashes, forming a tree structure; arbitrary graphs can be represented using YAML aliases (similar to XML in SOAP). YAML is intended to be read and written in streams, a feature inspired by SAX.
+
+Support for reading and writing YAML is available for many programming languages. Some source-code editors such as Vim,Emacs, and various integrated development environments have features that make editing YAML easier, such as folding up nested structures or automatically highlighting syntax errors.
+
+The official recommended filename extension for YAML files has been .yaml since 2006.[14]

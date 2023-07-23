@@ -1,0 +1,2 @@
+#Computer 
+A Graph is a [[non-linear]] [[data structure]] consisting of [[vert]]ices and [[edge]]s. The vertices are sometimes also referred to as [[node]]s and the edges are [[line]]s or [[arc]]s that connect any two nodes in the graph. More formally a Graph is composed of a set of vertices( V ) and a set of edges( E ). The graph is denoted by G(E, V).

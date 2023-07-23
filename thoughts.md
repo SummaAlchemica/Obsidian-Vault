@@ -1,0 +1,2 @@
+#Psychology 
+In their most common sense, the terms thought and thinking refer to [[conscious]] [[cognitive]] processes that can happen independently of [[sensory]] [[stimulation]]. Their most paradigmatic forms are [[judging]], [[reasoning]], [[concept]] formation, [[problem solving]], and deliberation

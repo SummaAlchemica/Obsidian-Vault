@@ -1,0 +1,2 @@
+#Language #Linguistics 
+Bengali (aka Bangla) is **spoken in northeastern India and Bangladesh by over 200 million speakers**, and thus ranks 6th in number of native speakers in the world. It is [[linguistic]]ally related to [[Sanskrit]] and has had a rich history as a literary [[language]] since the close of the first millennium.

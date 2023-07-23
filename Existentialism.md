@@ -1,0 +1,2 @@
+#Philosophy 
+Existentialism is a form of philosophical inquiry that explores the issue of human existence. Existentialist philosophers explore questions related to the [[meaning]], purpose, and value of human existence. [[Philosophy]].

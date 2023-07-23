@@ -1,0 +1,2 @@
+#Physics 
+A theory is a [[rational]] type of [[abstract]] thinking about a [[phenomenon]], or the results of such [[think]]ing. The process of contemplative and rational thinking is often associated with such processes as observational [[study]] or [[research]].

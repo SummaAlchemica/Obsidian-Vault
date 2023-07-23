@@ -1,0 +1,1 @@
+#Computer PC components include the **[[CPU (central processing unit)]], [[GPU]], [[motherboard]], [[PSU]], [[memory]], [[storage]] and [[PC cooling]]**. Together these components give you an operational [[Comput]].

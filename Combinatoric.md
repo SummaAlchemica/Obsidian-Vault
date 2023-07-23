@@ -1,0 +1,2 @@
+#Math 
+Combinatorics is the branch of [[math]]ematics studying the [[enumeration]], [[combination]], and [[permutation]] of sets of elements and the mathematical relations that characterize their properties. Mathematicians sometimes use the term "[[combinatoric]]s" to refer to a larger subset of [[discrete math]]ematics that includes [[graph theory]]. 

@@ -1,0 +1,3 @@
+#Biology 
+Soil science is the study of soil as a natural [[resource]] on the surface of the [[Earth]] including [[soil]] formation, classification and mapping; physical, [[chemical]], biological, and fertility properties of soils; and these properties in relation to the use and management of soils. 
+![[soil science.pdf]]

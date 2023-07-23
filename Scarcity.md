@@ -1,0 +1,2 @@
+#Economics 
+In [[economic]]s, scarcity "refers to the basic fact of life that there exists only a [[finite]] amount of human and nonhuman resources which the best technical knowledge is capable of using to [[produce]] only limited maximum amounts of each economic [[good]].

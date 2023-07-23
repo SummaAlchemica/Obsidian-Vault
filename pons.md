@@ -1,0 +1,9 @@
+#Biology 
+The pons (from Latin pons, "bridge") is part of the brainstem that in [[human]]s and other bipeds lies inferior to the [[midbrain]], superior to the [[medulla oblongata]] and anterior to the [[cerebellum]].
+
+The pons is also called the pons Varolii ("bridge of Varolius"), after the Italian anatomist and surgeon Costanzo Varolio (1543–75).[1] This region of the brainstem includes neural pathways and tracts that conduct [[signal]]s from the [[brain]] down to the cerebellum and medulla, and tracts that carry the [[sensory signal]]s up into the [[thalamus]].[2]
+
+Structure
+The pons is in the [[brainstem]] situated between the midbrain and the medulla oblongata, and in front of the cerebellum. A separating groove between the pons and the medulla is the inferior pontine sulcus.[3] The [[superior pontine sulcus]] separates the pons from the midbrain.[4] The pons can be broadly divided into two parts: the basilar part of the pons ([[ventral pons]]), and the pontine tegmentum (dorsal pons). Running down the midline of the ventral surface is the basilar sulcus, a groove for the basilar artery. Most of the pons is supplied by the [[pontine arteries]], which arise from the [[basilar artery]]. A smaller portion of the pons is supplied by the anterior and posterior inferior [[cerebellar arteries]].
+
+The pons in humans measures about 2.5 centimetres (0.98 in) in length. Most of it appears as a broad anterior bulge above the medulla. Posteriorly, it consists mainly of two pairs of thick stalks called [[cerebellar peduncles]]. They connect the cerebellum to the pons ([[middle cerebellar peduncle]]) and midbrain ([[superior cerebellar peduncle]]).[2]

@@ -1,0 +1,2 @@
+#Engineering 
+An analog [[signal]] is any [[continuous]]-[[time]] signal representing some other [[quantity]], i.e., analogous to another quantity. For example, in an analog audio signal, the instantaneous signal [[voltage]] varies continuously with the pressure of the [[sound]] [[wave]]s.w

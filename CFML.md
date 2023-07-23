@@ -1,0 +1,2 @@
+ColdFusion [[Markup Language]], more commonly known as CFML, is a scripting language for [[web]] development that runs on the [[JVM]], the .NET framework, and [[Google]] App Engine. Multiple commercial and open source implementations of CFML engines are available, including [[Adobe ColdFusion]], [[Lucee]], [[New Atlanta BlueDragon]] (who offer both a Java-based and a .NET-based version), [[Railo]], and [[Open BlueDragon]] as well as other CFML [[server]] engines.
+

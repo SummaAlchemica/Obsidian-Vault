@@ -1,0 +1,2 @@
+#Biology 
+An axon (from [[Greek]] ἄξων áxōn, axis), or [[nerve]] fiber (or nerve fibre: see spelling differences), is a long, slender projection of a nerve [[cell]], or [[neuron]], in [[vertebrate]]s, that typically conducts [[electric]]al impulses known as [[action potential]]s away from the nerve cell body.

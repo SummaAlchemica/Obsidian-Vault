@@ -1,0 +1,8 @@
+#Art 
+In music, form refers to the structure of a musical [[composition]] or [[performance]]. In his book, Worlds of Music, Jeff Todd Titon suggests that a number of organizational elements may determine the formal structure of a piece of music, such as "the arrangement of musical units of [[rhythm]], [[melody]], and/or [[harmony]] that show repetition or [[variation]], the [[arrangement]] of the instruments (as in the order of [[solo]]s in a [[jazz]] or [[bluegrass]] performance), or the way a [[symphonic]] piece is orchestrated", among other factors.[1] It is, "the ways in which a composition is shaped to create a meaningful musical experience for the listener."[2]
+
+Form refers to the largest shape of the composition. Form in music is the result of the interaction of the four structural elements described above [sound, harmony, melody, rhythm]."[3]
+
+These organizational elements may be broken into smaller units called [[musical phrase]]s, which express a musical idea but lack sufficient weight to stand alone.[4] Musical form unfolds over time through the expansion and development of these ideas. In [[tonal harmony]], form is articulated primarily through [[cadence]]s, phrases, and [[period]]s.[2] "Form refers to the larger shape of the composition. Form in music is the result of the interaction of the four structural elements," of sound, harmony, melody, and rhythm.[3]
+
+Compositions that do not follow a fixed structure and rely more on [[improv]]isation are considered [[free-form]]. A fantasia is an example of this.[5] Composer Debussy in 1907 wrote that, "I am more and more convinced that music is not, in essence, a thing that can be cast into a traditional and fixed form. It is made up of [[color]]s and rhythms."[6]

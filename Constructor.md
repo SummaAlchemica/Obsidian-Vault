@@ -1,0 +1,2 @@
+#Computer 
+In [[class-based]], [[object-oriented]] [[programming]], a constructor is a special type of [[function]] called to create an [[object]]. It prepares the new object for use, often accepting arguments that the constructor uses to set required member [[variable]]s.

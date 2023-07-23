@@ -1,0 +1,2 @@
+#Chemistry 
+[[Sodium]] [[chloride]], commonly known as [[salt]], is an ionic compound with the [[chemical]] formula NaCl, representing a 1:1 ratio of sodium and chloride [[ion]]s. With [[molar mass]]es of 22.99 and 35.45 g/mol respectively, 100 g of NaCl contains 39.34 g Na and 60.66 g Cl

@@ -1,0 +1,2 @@
+#Computer 
+AV1 [[Image]] [[File Format]] is an open, royalty-free image file format specification for storing images or image sequences [[compress]]ed with AV1 in the [[HEIF]] container format. It competes with [[HEIC]], which uses the same container format built upon [[ISOBMFF]], but [[HEVC]] for compression.

@@ -1,0 +1,2 @@
+#Psychology 
+Visual [[perception]] is the ability to interpret the surrounding [[environment]] through [[photo]]pic vision, [[color]] vision, [[scotopic]] vision, and [[mesopic]] vision, using [[light]] in the visible spectrum reflected by objects in the environment. This is different from visual acuity, which refers to how clearly a person sees.

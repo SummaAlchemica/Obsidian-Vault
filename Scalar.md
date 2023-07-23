@@ -1,0 +1,2 @@
+#Math 
+In [[Physic]], scalars are physical quantities that are unaffected by changes to a [[vector space]] basis. Scalars are often accompanied by units of measurement, as in "10 cm". Examples of scalar quantities are [[mass]], [[distance]], [[charge]], [[volume]], [[time]], [[speed]], and the [[magnitude]] of physical [[vector]]s in general.

@@ -1,0 +1,2 @@
+#Philosophy  
+A phenomenon, sometimes spelled phaenomenon, is an observable event. The term came into its modern philosophical ([[Philosophy]]) usage through [[Immanuel Kant]], who contrasted it with the [[noumenon]], which cannot be directly observed.

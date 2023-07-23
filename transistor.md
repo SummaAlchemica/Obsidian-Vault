@@ -1,0 +1,2 @@
+#Engineering 
+A transistor is a [[semiconductor]] device used to [[amplif]]y or [[switch]] [[electric]]al [[signal]]s and [[power]]. It is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three [[terminal]]s for connection to an electronic [[circuit]].

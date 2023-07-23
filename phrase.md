@@ -1,0 +1,2 @@
+#Linguistics 
+In [[grammar]], a phrase—called expression in some contexts—is a group of words or singular word acting as a grammatical unit. For instance, the [[English]] expression "the very happy squirrel" is a [[noun]] phrase which contains the [[adjective]] phrase "very happy". Phrases can consist of a single [[word]] or a complete [[sentence]].

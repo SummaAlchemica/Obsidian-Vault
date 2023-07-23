@@ -1,0 +1,2 @@
+#Computer 
+Emmet is a set of plug-ins for [[text editor]]s that allow for high-speed coding and editing in [[HTML]], [[XML]], [[XSLT]], and other structured code formats via content assist. The project was started by Vadim Makeev in 2008 and continues to be actively developed by Sergey Chikuyonok and Emmet users.

@@ -1,0 +1,2 @@
+#Physics 
+The Lennard-Jones potential is a simplified model that yet describes the essential features of interactions between simple [[atom]]s and [[molecule]]s: Two interacting particles repel each other at very close distance, attract each other at moderate distance, and do not interact at infinite distance.

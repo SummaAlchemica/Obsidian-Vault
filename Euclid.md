@@ -1,0 +1,2 @@
+#Biography
+Euclid was an [[ancient]] [[Greek]] [[math]]ematician active as a geometer and [[Logic]]ian. Considered the "father of [[geometry]]", he is chiefly known for the Elements [[treatise]], which established the foundations of geometry that largely dominated the field until the early 19th century.
